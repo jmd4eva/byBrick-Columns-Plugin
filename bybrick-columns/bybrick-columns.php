@@ -3,7 +3,7 @@
 Plugin Name: byBrick Columns
 Plugin URI: https://github.com/byBrick/byBrick-Columns-Plugin
 Description: A plugin that enables for column based shortcodes.
-Version: 1.0
+Version: 1.1.1
 Author: byBrick
 Author URI: http://www.bybrick.se/
 License: GNU General Public License (GPLv3)
@@ -11,7 +11,7 @@ License: GNU General Public License (GPLv3)
 
 /*
 byBrick Accordion Plugin
-Written by David Pausson (@davidpaulsson) & Emil Tullstedt (@sakjur)
+Written by David Pausson (@davidpaulsson) & Emil Tullstedt (@sakjur), edited by jmd4eva
 */
 
 $bbcodes = array('one_third', 'one_third_last', 'two_third', 'two_third_last', 'one_half', 'one_half_last', 'one_fourth', 'one_fourth_last', 'three_fourth', 'three_fourth_last', 'one_fifth', 'one_fifth_last', 'two_fifth', 'two_fifth_last', 'three_fifth', 'three_fifth_last', 'four_fifth', 'four_fifth_last', 'one_sixth', 'one_sixth_last', 'five_sixth', 'five_sixth_last');
